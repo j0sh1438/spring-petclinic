@@ -69,9 +69,8 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-	    <groupId>org.jolokia</groupId>
-	    <artifactId>jolokia-support-spring</artifactId>
-	    <version>2.0.3</version>
+	    <groupId>io.micrometer</groupId>
+	    <artifactId>micrometer-registry-prometheus</artifactId>
     </dependency>
 	    
     <!-- Databases - Uses H2 by default -->
